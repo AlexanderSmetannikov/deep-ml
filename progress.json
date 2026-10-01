@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T20:03:07.903Z",
+  "generated_at": "2026-10-01T20:04:22.234Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -383,9 +383,9 @@
       "url": "https://www.deep-ml.com/problems/195",
       "path": "problems/0195-matrix-determinant-trace",
       "first_solved_at": "2026-10-01T20:03:06.548Z",
-      "last_pushed_at": "2026-10-01T20:03:06.548Z",
+      "last_pushed_at": "2026-10-01T20:04:21.525Z",
       "language": "python",
-      "lines": 38
+      "lines": 60
     }
   }
 }
